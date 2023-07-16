@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrguevara" alt="jrguevara" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="mailto:jr.guevara@outlook.com">jr.guevara@outlook.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
